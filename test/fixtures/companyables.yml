@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attraction: one
+  company: one
+
+two:
+  attraction: two
+  company: two
